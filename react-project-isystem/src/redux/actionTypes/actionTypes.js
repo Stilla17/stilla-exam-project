@@ -1,0 +1,14 @@
+export const LOADING_TRUE = "LOADING_TRUE";
+export const LOADING_FALSE = "LOADING_FALSE";
+
+export const GET_WINDOW = "GET_WINDOW";
+
+export const GET_PRODUCT_INFO = "GET_PRODUCT_INFO";
+export const GET_INFO = "GET_INFO";
+
+export const GET_SEARCH_PRODUCT_DATA = "GET_SEARCH_PRODUCT_DATA";
+export const SET_SEARCH_TEXT = "SET_SEARCH_TEXT";
+
+export const GET_PRODUCT_CATEGORY = "GET_PRODUCT_CATEGORY";
+
+
